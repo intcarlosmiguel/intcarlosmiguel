@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-KattsonBastos-red.svg)](https://linkedin.com/in/kattson-bastos) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/issues) [![Image License](https://img.shields.io/badge/Banner:-Credits-red.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt)
+[![author](https://img.shields.io/badge/author-CarlosMiguel-red.svg)](https://www.linkedin.com/in/carlos-miguel-moreira-goncalves/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 
 # Carlos Miguel Portifolio
 
@@ -43,7 +43,7 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 <strong><a href="https://github.com/intcarlosmiguel/fruits">1. Classificação de Frutas (Fruits Classification)</a></strong>
 <br>
 <a href="https://github.com/intcarlosmiguel/fruits">
-	<img src="https://www.rossmann.de/dam/jcr:f83a6bfd-e46c-4063-844e-59ffa529ed80/Buehne_Startseite_Ueber_uns.2017-01-11-08-36-49.jpg" alt="drawing" align="right" width="25%"  height="120"/>
+	<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/assortment-of-colorful-ripe-tropical-fruits-top-royalty-free-image-995518546-1564092355.jpg?crop=0.982xw:0.736xh;0,0.189xh&resize=980:*" alt="drawing" align="right" width="25%"  height="120"/>
 </a>
 > <p>A partir de um Data set do Kaggle montei algoritmos de Machine Learning para tentar classificar qual fruta era.</p>
 > <p>Skills: Visualization, Machine Learning, Pytorch Sklearn</p>
@@ -53,8 +53,8 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 
 <strong><a href="https://github.com/intcarlosmiguel/india_dropout">1. Evasão Escolar na Índia (India Dropout)</a></strong>
 <br>
-<a href="https://github.com/KattsonBastos/bahia_enade18_analysis">
-	<img src="https://github.com/KattsonBastos/bahia_enade18_analysis/blob/main/img/banner.png" alt="drawing" align="right" width="25%" height="120"/>
+<a href="https://github.com/intcarlosmiguel/india_dropout">
+	<img src="https://github.com/intcarlosmiguel/india_dropout/blob/master/img/dropout.jpg" alt="drawing" align="right" width="25%" height="120"/>
 </a>
 > <p>Análise do estudo de um Dataset do Kaggle sobre a evasão escolar e quais seriam as suas origens em dados sobre as escolas na India por região.</p>
 > <p>Skills: Data Visualization, Data Processing, Geoprocessing, Data Analysis.</p>
