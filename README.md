@@ -16,7 +16,7 @@
 # Qual a sua área de atuação? 🎓
 🇧🇷 Sou formado em Física Bacharelado pela Universidade Federal do Ceará. Atuei na área da Estatística no ramo de Teoria de Redes. Estudei as Redes de pequeno mundo e algoritmos de opinião extrema. Nessa pandemia decidi estudar Machine Learning, Ciência e Análise de dados para me preparar para o Mestrado.
 
-🇬🇧 I have bachelor's degree in Physics by Universidade Federal do Ceará. I acted in Statistic's field in the branch of Network Science. I study the Small Worlds Lattices with Extreme Opinion Algorithms. In this pandemic i decided to study Machine Learning, Data Science and Data Analysis for my master's degree.
+🇬🇧 I have a bachelor's degree in Physics from UFC (Federal University of Ceara). During my graduation, I acted in statistics in the area of network science. I focused my study mainly in the small-worlds lattices with extreme opinion algorithms' field. In the pandemic, I decided to study machine learning, data science and data analysis for my master's degree.
 
 ## Quais suas ferramentas de estudo? 🛠️
 Tenho estudado as seguintes ferramentas para os meus projetos:
@@ -25,7 +25,7 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 - Pytorch
 - Sklearn
 - Selenium
-- Numpy e Matplotlib
+- Numpy, Pandas e Matplotlib
 
 🇬🇧 I have study this tools in my projects:
 - C
@@ -33,9 +33,7 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 - Pytorch
 - Sklearn 
 - Selenium
-- Numpy, pandas and Matplotlib
-
-
+- Numpy, Pandas and Matplotlib
 
 ## Projects 
 ### Data Science Projects:
