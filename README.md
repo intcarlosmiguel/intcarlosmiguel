@@ -45,7 +45,7 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 <a href="https://github.com/intcarlosmiguel/fruits">
 	<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/assortment-of-colorful-ripe-tropical-fruits-top-royalty-free-image-995518546-1564092355.jpg?crop=0.982xw:0.736xh;0,0.189xh&resize=980:*" alt="drawing" align="right" width="25%"  height="120"/>
 </a>
-> <p>A partir de um Data set do Kaggle montei algoritmos de Machine Learning para tentar classificar qual fruta era.</p>
+> <p>Foi publicado no Kaggle um dataset sobre 7 tipos diferentes de frutas e vários aspectos de cada uma delas. Seja aspectos geométricos, como o perímetro e a área, como suas cores e de suas flores. Baseado nesse data set foi escrito um artigo na qual usava um algoritmo de rede neural e SVM para classificar o dataset. Aqui neste repositório decidi colocar alguns algoritmos de Machine Learning do scikit learn e a rede neural do Pytorch. Assim como no artigo tem uma parte no código na qual você junta duas predições, e a partir do voto da maioria, é determinado qual a classficação que vai ser predita (foi deixado como Rede Neural e KNN, mas você pode experimentar com os outros algoritmos).</p>
 > <p>Skills: Visualization, Machine Learning, Pytorch Sklearn</p>
 <br>
 
@@ -56,7 +56,7 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 <a href="https://github.com/intcarlosmiguel/india_dropout">
 	<img src="https://github.com/intcarlosmiguel/india_dropout/blob/master/img/dropout.jpg" alt="drawing" align="right" width="25%" height="120"/>
 </a>
-> <p>Análise do estudo de um Dataset do Kaggle sobre a evasão escolar e quais seriam as suas origens em dados sobre as escolas na India por região.</p>
+> <p>Decerto, a evasão escolar é algo preocupante para qualquer país e estudar seus dados é de essencial para descobrirmos a origem do problema. A evasão escolar pode surgir a partir de escolas com uma estrutura ruim, uma falta de renda na família que pode induzir ao trabalho infantil, adesão à crimes, dentre outras. Avaliar essa situação é importante para todo o país, pensando nisso irá ser avaliado a partir de um banco de dados da Índia, que foi publicado no Kaggle, sobre a evasão escolar por região e qual a sua relação com a infraestrutura escolar.</p>
 > <p>Skills: Data Visualization, Data Processing, Geoprocessing, Data Analysis.</p>
 <br>
 
