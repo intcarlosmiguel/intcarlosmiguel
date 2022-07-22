@@ -47,6 +47,15 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 > <p>Skills: Visualization, Machine Learning, Pytorch Sklearn</p>
 <br>
 
+<strong><a href="https://github.com/intcarlosmiguel/magicneural">2. Projeto de Redes Neurais aplicado em Magic</a></strong>
+<br>
+<a href="https://github.com/intcarlosmiguel/magicneural">
+	<img src="https://www.hipstersofthecoast.com/wp-content/uploads/2020/08/teferi-time-raveler-banned-in-brawl.jpg" alt="drawing" align="right" width="25%"  height="120"/>
+</a>
+> <p>Eu acredito que a melhor forma de aprender é aplicando os seus conhecimentos em coisas que gosta e cá aqui estou eu. Nesse projeto utilizei o Selenium para coletar os dados de 1500 imagens de cartas no site Scryfall (https://scryfall.com) e o objetivo é utilizar Redes Neurais para identificar qual a cor(es) das cartas de magic.</p>
+> <p>Skills: Visualization, Machine Learning, Pytorch Sklearn</p>
+<br>
+
 ### Data Anaysis / Insight Projets:
 
 <strong><a href="https://github.com/intcarlosmiguel/india_dropout">1. Evasão Escolar na Índia (India Dropout)</a></strong>
@@ -60,13 +69,13 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 
 ### Network Science:
 
-<strong><a href="https://github.com/intcarlosmiguel/Programas-da-Gradua-o">1. Dinâmica de Opinião Extrema (India Dropout)</a></strong>
+<strong><a href="https://github.com/intcarlosmiguel/Programas-da-Gradua-o">1. Dinâmica de Opinião Extrema </a></strong>
 <br>
 <a href="https://github.com/intcarlosmiguel/Programas-da-Gradua-o">
 	<img src="https://miro.medium.com/max/1400/1*niydlv46lEZgSxIvKPAiwA.png" alt="drawing" align="right" width="25%" height="120"/>
 </a>
 > <p>O surgimento da internet foi o principal fator para a propagação de opiniões extremas. Negacionismo, fake news, discursos de ódio, dentre outros são componentes que ficaram cada vez mais comuns nesse meio, algo que foi reforçado durante a pandemia do COVID-19. Nesse trabalho, discute-se modelos de opinião extrema em modelos de redes com característica de “pequeno mundo” no intuito de modelar uma rede real. </p>
-> <p>Skills: Data Visualization, Data Processing, Geoprocessing, Data Analysis.</p>
+> <p>Skills: Network Science, C.</p>
 <br>
 
 ---
