@@ -58,6 +58,17 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 > <p>Skills: Data Visualization, Data Processing, Geoprocessing, Data Analysis.</p>
 <br>
 
+### Network Science:
+
+<strong><a href="https://github.com/intcarlosmiguel/Programas-da-Gradua-o">1. Dinâmica de Opinião Extrema (India Dropout)</a></strong>
+<br>
+<a href="https://github.com/intcarlosmiguel/Programas-da-Gradua-o">
+	<img src="https://miro.medium.com/max/1400/1*niydlv46lEZgSxIvKPAiwA.png" alt="drawing" align="right" width="25%" height="120"/>
+</a>
+> <p>O surgimento da internet foi o principal fator para a propagação de opiniões extremas. Negacionismo, fake news, discursos de ódio, dentre outros são componentes que ficaram cada vez mais comuns nesse meio, algo que foi reforçado durante a pandemia do COVID-19. Nesse trabalho, discute-se modelos de opinião extrema em modelos de redes com característica de “pequeno mundo” no intuito de modelar uma rede real. </p>
+> <p>Skills: Data Visualization, Data Processing, Geoprocessing, Data Analysis.</p>
+<br>
+
 ---
 ## Skills
 
