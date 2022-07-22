@@ -47,7 +47,7 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 > <p>Skills: Visualization, Machine Learning, Pytorch Sklearn</p>
 <br>
 
-<strong><a href="https://github.com/intcarlosmiguel/magicneural">2. Projeto de Redes Neurais aplicado em Magic</a></strong>
+<strong><a href="https://github.com/intcarlosmiguel/magicneural">2. Projeto de Redes Neurais aplicado em Magic (incomplete)</a></strong>
 <br>
 <a href="https://github.com/intcarlosmiguel/magicneural">
 	<img src="https://www.hipstersofthecoast.com/wp-content/uploads/2020/08/teferi-time-raveler-banned-in-brawl.jpg" alt="drawing" align="right" width="25%"  height="160"/>
