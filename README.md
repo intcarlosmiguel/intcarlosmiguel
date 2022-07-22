@@ -50,7 +50,7 @@ Tenho estudado as seguintes ferramentas para os meus projetos:
 <strong><a href="https://github.com/intcarlosmiguel/magicneural">2. Projeto de Redes Neurais aplicado em Magic</a></strong>
 <br>
 <a href="https://github.com/intcarlosmiguel/magicneural">
-	<img src="https://www.hipstersofthecoast.com/wp-content/uploads/2020/08/teferi-time-raveler-banned-in-brawl.jpg" alt="drawing" align="right" width="25%"  height="120"/>
+	<img src="https://www.hipstersofthecoast.com/wp-content/uploads/2020/08/teferi-time-raveler-banned-in-brawl.jpg" alt="drawing" align="right" width="25%"  height="160"/>
 </a>
 > <p>Eu acredito que a melhor forma de aprender é aplicando os seus conhecimentos em coisas que gosta e cá aqui estou eu. Nesse projeto utilizei o Selenium para coletar os dados de 1500 imagens de cartas no site Scryfall (https://scryfall.com) e o objetivo é utilizar Redes Neurais para identificar qual a cor(es) das cartas de magic.</p>
 > <p>Skills: Visualization, Machine Learning, Pytorch Sklearn</p>
